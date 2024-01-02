@@ -1,6 +1,9 @@
 # My nvim backup!
 
-Welcome to my nvim journey. This al started with a fork of [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim), which is a fork of [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) that splits the config file into multiple smaller files, so that they are easier to navigate. If I remember I will document any changes I make to my configuration here. Just in case anyone is interested in it.
+Welcome to my nvim journey. This all started with a fork of [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim), which is a fork of [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) that splits the config file into multiple smaller files, so that they are easier to navigate. If I remember I will document any changes I make to my configuration here. Just in case anyone is interested in it.
+
+### Changes
+- `[2024-01-02]` - initial installation
 
 ### Installation
 
